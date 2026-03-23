@@ -2,7 +2,7 @@
 This repo is for issue tracking for Tom's Terrain Tools asset store package
 
 ### Asset Store
-https://assetstore.unity.com/packages/tools/terrain/terrain-tools-64852?aid=1101lGti (*New release 3rd April 2024)
+https://assetstore.unity.com/packages/tools/terrain/terrain-tools-64852?aid=1101lGti (*New release March 2026)
 
 ## Posting issues & feature requests
 Go to the "Issues" page > https://github.com/unitycoder/TomsTerrainToolsUnity/issues
